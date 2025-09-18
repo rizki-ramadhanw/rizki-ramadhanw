@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/rizki-ramadhanw.png?size=150" width="150px" alt="Avatar Saya">
-</p>
-
 # Hi there 👋
 
 My name is Rizki Ramadhan Wira Saputra, but you can call me Rizki. I'm an undergraduate student in Bina Nusantara University, majoring in Mobile Application and Technology. 
