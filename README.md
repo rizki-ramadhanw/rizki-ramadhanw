@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="150px" alt="Avatar Saya">
+  <img src="https://github.com/rizki-ramadhanw.png?size=150" width="150px" alt="Avatar Saya">
 </p>
 
 # Hi there 👋
