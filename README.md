@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Rizki Ramadhan Wira Saputra, but you can call me Rizki. I'm an undergraduate student in Bina Nusantara University, majoring in Mobile Application and Technology. 
+My name is Rizki Ramadhan Wira Saputra, but you can call me Rizki. I'm an undergraduate student at Bina Nusantara University, majoring in Mobile Application and Technology. 
 
 - 🌱 I’m currently learning SwiftUI
 - 📫 How to reach me:
