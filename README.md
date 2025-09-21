@@ -1,13 +1,17 @@
-# Hi there 👋
+# <p align="center">Hi there 👋</p>
 
+# 🌠 About Me
 My name is Rizki Ramadhan Wira Saputra, but you can call me Rizki. I'm an undergraduate student at Bina Nusantara University, majoring in Mobile Application and Technology. 
 
-- 🌱 I’m currently learning SwiftUI
-- 📫 How to reach me:
+# 🎸 What i'm up to
+- 📕 I’m currently learning SwiftUI
+- 📱 Building a new project using SwiftUI
+
+# 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rizkiramadhanwirasaputra) 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:rizki.rwsaputra@gmail.com)
 
-# Tech Stack
+# 🧑‍💻 Tech Stack
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
