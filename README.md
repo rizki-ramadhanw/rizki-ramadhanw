@@ -11,6 +11,9 @@ My name is Rizki Ramadhan Wira Saputra, but you can call me Rizki. I'm an underg
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rizkiramadhanwirasaputra) 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:rizki.rwsaputra@gmail.com)
 
+# 📓 Download my CV
+[Download](https://raw.githubusercontent.com/rizki-ramadhanw/documents/main/Cv_Rizki.pdf)
+
 # 🧑‍💻 Tech Stack
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
