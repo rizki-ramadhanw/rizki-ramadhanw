@@ -4,8 +4,8 @@
 My name is Rizki Ramadhan Wira Saputra, but you can call me Rizki. I'm an undergraduate student at Bina Nusantara University, majoring in Mobile Application and Technology. 
 
 # 🎸 What i'm up to
-- 📕 I’m currently learning SwiftUI
-- 📱 Building a new project using SwiftUI
+- 📕 Learning SwiftUI
+- 📱 Learning Python
 
 # 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rizkiramadhanwirasaputra) 
